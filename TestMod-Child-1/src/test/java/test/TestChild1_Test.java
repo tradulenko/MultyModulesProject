@@ -9,5 +9,6 @@ public class TestChild1_Test {
 		Logger log = Logger.getLogger(getClass());
 		log.info("Child1 tests log");
 		log.info("test Idea");
+		log.info("test Eclipse");
 	}
 }
