@@ -9,5 +9,6 @@ public class Test11_Test {
 		System.out.println("Test Child is  running!");
 		Logger log = Logger.getLogger(getClass());
 		log.info("Test Log with new project");
+		log.info("Test git");
 	}
 }
