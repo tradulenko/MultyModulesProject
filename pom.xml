@@ -35,6 +35,7 @@
 	<modules>
 		<module>TestMod-Child</module>
     <module>TestMod-Child-1</module>
+    <module>TestMod-Child-2</module>
   </modules>
 
 </project>
