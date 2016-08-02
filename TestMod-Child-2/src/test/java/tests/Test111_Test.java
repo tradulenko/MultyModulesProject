@@ -1,6 +1,7 @@
 package tests;
 
 import org.apache.log4j.Logger;
+import org.junit.Assert;
 import org.junit.Test;
 
 public class Test111_Test {
@@ -9,6 +10,6 @@ public class Test111_Test {
 		Logger log = Logger.getLogger(getClass());
 		log.info("Log from project 3");
 		
-		log.info("work5");
+		Assert.assertTrue("Test from assert", true);
 	}
 }
