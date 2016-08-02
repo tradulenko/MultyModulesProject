@@ -8,5 +8,6 @@ public class TestChild1_Test {
 	public void testChild1 (){
 		Logger log = Logger.getLogger(getClass());
 		log.info("Child1 tests log");
+		log.info("test Idea");
 	}
 }
